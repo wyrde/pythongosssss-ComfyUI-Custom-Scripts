@@ -1,3 +1,6 @@
+# by pythongosssss
+# https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
 import comfy.utils
 import math
 
@@ -29,5 +32,5 @@ class LatentUpscaleBy:
 
 
 NODE_CLASS_MAPPINGS = {
-    "LatentUpscaleBy": LatentUpscaleBy,
+    "LatentUpscaleBy (pgos)": LatentUpscaleBy,
 }

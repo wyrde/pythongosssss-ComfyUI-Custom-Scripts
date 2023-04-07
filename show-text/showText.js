@@ -1,6 +1,8 @@
 import { app } from "/scripts/app.js";
 import { ComfyWidgets } from "/scripts/widgets.js";
 
+// by pythongossssss
+// https://github.com/pythongosssss/ComfyUI-Custom-Scripts/
 // Displays input text on a node
 
 app.registerExtension({

@@ -1,6 +1,8 @@
 import { app } from "/scripts/app.js";
 import { ComfyWidgets } from "/scripts/widgets.js";
 
+// by pythongosssss
+// from https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 // Adds support for import + export as SVG including input + output images
 // Adds two context menu items to the canvas
 // Supports drag + drop import

@@ -1,5 +1,7 @@
 import { app } from "/scripts/app.js";
 
+// by pythongossssss
+// https://github.com/pythongosssss/ComfyUI-Custom-Scripts/
 // Adds a bunch of context menu entries for quickly adding common steps
 
 // Any node with VAE input: "Use Vae" - Will find or add a VAE Loader and attach it

@@ -1,3 +1,6 @@
+# by pythongosssss
+# https://github.com/pythongosssss/ComfyUI-Custom-Scripts
+
 import copy
 import sys
 import os
@@ -29,7 +32,7 @@ class Segment:
     RETURN_TYPES = ("IMAGE", "MASK")
     FUNCTION = "segment"
 
-    CATEGORY = "image"
+    CATEGORY = "pgos/image"
 
     def get_mask(self, model, input_img, use_amp=True, s=640):
         h0, w0 = h, w = input_img.shape[0], input_img.shape[1]
@@ -113,5 +116,5 @@ class Segment:
 
 
 NODE_CLASS_MAPPINGS = {
-    "AnimeSegmentation": Segment,
+    "AnimeSegmentation (pgos)": Segment,
 }

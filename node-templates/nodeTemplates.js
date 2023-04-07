@@ -1,5 +1,7 @@
 import { app } from "/scripts/app.js";
 
+// by pythongosssss
+// https://github.com/pythongosssss/ComfyUI-Custom-Scripts/
 // Adds the ability to save and add multiple nodes as a template
 // To save: 
 // Select multiple nodes (ctrl + drag or shift click)

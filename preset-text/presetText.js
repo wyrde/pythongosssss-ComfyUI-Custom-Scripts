@@ -1,5 +1,7 @@
 import { app } from "/scripts/app.js";
 
+// by pythongossssss
+// https://github.com/pythongosssss/ComfyUI-Custom-Scripts/
 // Allows you to manage preset tags for e.g. common negative prompt
 
 app.registerExtension({
