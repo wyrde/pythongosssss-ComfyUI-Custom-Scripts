@@ -1,6 +1,8 @@
 import { api } from "/scripts/api.js";
 import { app } from "/scripts/app.js";
 
+// by pythongosssss
+// from https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 // Adds a list of images that are generated to the bottom of the page
 
 app.registerExtension({
